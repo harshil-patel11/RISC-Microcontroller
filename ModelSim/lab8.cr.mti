@@ -1,0 +1,100 @@
+{C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/cpu.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/cpu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu
+-- Compiling module instruction_decoder
+-- Compiling module Counter
+-- Compiling module EqComp
+-- Compiling module RAM
+
+Top level modules:
+	cpu
+	Counter
+	EqComp
+	RAM
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_autograder_check.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_autograder_check.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_check_tb
+
+Top level modules:
+	lab8_check_tb
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/mux_dff.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/mux_dff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux2
+-- Compiling module Mux3
+-- Compiling module Mux4
+-- Compiling module Mux8
+-- Compiling module vDFFE
+-- Compiling module vDFFE_PN
+-- Compiling module vDFF
+
+Top level modules:
+	Mux2
+	Mux3
+	Mux4
+	Mux8
+	vDFFE
+	vDFFE_PN
+	vDFF
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/shifter.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/shifter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage2_tb.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage2_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_stage2_tb
+
+Top level modules:
+	lab8_stage2_tb
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/alu.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+-- Compiling module overflow
+-- Compiling module Adder1
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_ble.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_ble.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_stage1_ble
+
+Top level modules:
+	lab8_stage1_ble
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top_tb.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_top_tb
+
+Top level modules:
+	lab8_top_tb
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/regfile.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+-- Compiling module Dec
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/datapath.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_bne.v} {1 {vlog -work work -stats=none {C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_bne.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_stage1_bne
+
+Top level modules:
+	lab8_stage1_bne
+
+} {} {}}

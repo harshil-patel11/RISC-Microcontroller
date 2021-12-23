@@ -1,0 +1,742 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 7 - All/Lab7-Directory/Lab7-ModelSim
+vAdder1
+Z0 !s110 1605190863
+!i10b 1
+!s100 =m6W_H3jY3kPWM31h[DmZ3
+IkH?]c9Fe_YFA;RZ2HSkig0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/ModelSim
+Z3 w1604973769
+Z4 8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/alu.v
+Z5 FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/alu.v
+L0 64
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1605190863.000000
+Z8 !s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/alu.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/alu.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@adder1
+vALU
+R0
+!i10b 1
+!s100 XJKVXW[;L8<2@kdf5hG0k2
+I80ocibQ]Q]g2ODKLDh>M32
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u
+vCounter
+R0
+!i10b 1
+!s100 F]0LRJ<GDQ9nQV_60P[7N0
+I1=_Unz2Y[H5f@lab08:H>2
+R1
+R2
+Z12 w1605150959
+Z13 8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/cpu.v
+Z14 FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/cpu.v
+L0 228
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/cpu.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/cpu.v|
+!i113 1
+R10
+R11
+n@counter
+vcpu
+R0
+!i10b 1
+!s100 ;J<zQTdl`aTO34N4KdJ<M0
+IZJkbXSZJ>NFQ?`b780i`61
+R1
+R2
+R12
+R13
+R14
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vdatapath
+Z17 !s110 1605190864
+!i10b 1
+!s100 6PTFNi5VW0ComXTBHI;LG2
+I<1ilC4ALNW49fIlaiIZTT0
+R1
+R2
+w1605144499
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/datapath.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/datapath.v
+L0 2
+R6
+r1
+!s85 0
+31
+Z18 !s108 1605190864.000000
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/datapath.v|
+!i113 1
+R10
+R11
+vDec
+R17
+!i10b 1
+!s100 Wm^k`;KzCTI0SjKk68[:W0
+I@D53C?1Z8jSi?abiZ9d4o0
+R1
+R2
+Z19 w1604973804
+Z20 8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/regfile.v
+Z21 FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/regfile.v
+L0 38
+R6
+r1
+!s85 0
+31
+R18
+Z22 !s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/regfile.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/regfile.v|
+!i113 1
+R10
+R11
+n@dec
+vDesign1
+Z24 !s110 1605146495
+!i10b 1
+!s100 3M<;_>H2mR@[NEb906>1Y2
+ILlEE6n[I:[OVJ61]aP;9R1
+R1
+R2
+Z25 w1605146492
+Z26 8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top.v
+Z27 FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top.v
+L0 113
+R6
+r1
+!s85 0
+31
+Z28 !s108 1605146495.000000
+Z29 !s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top.v|
+!i113 1
+R10
+R11
+n@design1
+vDesign2
+R24
+!i10b 1
+!s100 ObhY`M2[n;bg4biHH6eA[0
+I35ZD8P2eTIT>l6Tgz^@8_2
+R1
+R2
+R25
+R26
+R27
+L0 131
+R6
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 1
+R10
+R11
+n@design2
+vEqComp
+R0
+!i10b 1
+!s100 3oL2TEGPfH2T7e`zPiHMf3
+IX9HV<H0a5DIaFLfMJE8>F2
+R1
+R2
+R12
+R13
+R14
+L0 247
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+n@eq@comp
+vFSMController
+R17
+!i10b 1
+!s100 4kfoP1?L`CXeeU:lDHz912
+I`BaPnJDgFiTMaWLPi[Q6k1
+R1
+R2
+w1605190419
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/controller.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/controller.v
+L0 2
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/controller.v|
+!i113 1
+R10
+R11
+n@f@s@m@controller
+vinstruction_decoder
+R0
+!i10b 1
+!s100 YGnz8NH>22O121=]@a74>0
+I_llhV?2;QIhd@Z`ObSFn[1
+R1
+R2
+R12
+R13
+R14
+L0 183
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vlab7_check_tb
+!s110 1604816304
+!i10b 1
+!s100 DZM5ozh21[Fl@mF?[liOz2
+IDgR1K_i_><Q8Ma[mW@>3f1
+R1
+R2
+w1604798696
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_autograder_check.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_autograder_check.v
+L0 7
+R6
+r1
+!s85 0
+31
+!s108 1604816304.000000
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_autograder_check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_autograder_check.v|
+!i113 1
+R10
+R11
+vlab7_top
+Z31 !s110 1604812370
+!i10b 1
+!s100 QiG087oUg3m8VOO9NPHUi2
+Il6^6Bm?K0;6?doQ><mOlT3
+R1
+R2
+w1604798700
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top.v
+L0 2
+R6
+r1
+!s85 0
+31
+Z32 !s108 1604812370.000000
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top.v|
+!i113 1
+R10
+R11
+vlab7_top_tb
+R31
+!i10b 1
+!s100 5T]g?6n@c=g@>:1Q07UKP2
+IHHJeg<XNK@eB_2O2RWg7k1
+R1
+R2
+w1604808234
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top_tb.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab7_top_tb.v|
+!i113 1
+R10
+R11
+vlab8_check_tb
+R17
+!i10b 1
+!s100 3hnO=TC4h31N?WCbUBdRU0
+I98Tm]o9L9^<hFnNnlkYe31
+R1
+R2
+w1605152492
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_autograder_check.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_autograder_check.v
+L0 1
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_autograder_check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_autograder_check.v|
+!i113 1
+R10
+R11
+vlab8_stage1_ble
+R17
+!i10b 1
+!s100 abKb1R]>Z=>5BNlL<THG41
+Ik?77T?^^GeI`AA9S<Bk=A1
+R1
+R2
+w1605146353
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_ble.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_ble.v
+L0 1
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_ble.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_ble.v|
+!i113 1
+R10
+R11
+vlab8_stage1_bne
+R17
+!i10b 1
+!s100 a;Y9aGF`7hRM<ZMbO2<0e0
+IjaJ>PiezHh]m@T7c=o`8L3
+R1
+R2
+w1605146461
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_bne.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_bne.v
+L0 1
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_bne.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage1_bne.v|
+!i113 1
+R10
+R11
+vlab8_stage2_tb
+R17
+!i10b 1
+!s100 ?TR8TfoZTP[LOCAiEl^;?3
+IKD@P0O?_z098e;lU8@kEV3
+R1
+R2
+w1605146169
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage2_tb.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage2_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_stage2_tb.v|
+!i113 1
+R10
+R11
+vlab8_top
+R17
+!i10b 1
+!s100 _Q69GFZKZ<f;ZXGHDWT^[2
+I^Y?Nhae7H1VLb^ddU:?I03
+R1
+R2
+Z33 w1605190748
+R26
+R27
+L0 2
+R6
+r1
+!s85 0
+31
+R18
+R29
+R30
+!i113 1
+R10
+R11
+vlab8_top_tb
+R17
+!i10b 1
+!s100 ]e@KJO5^=c@`YaW7WWKXk1
+I[nYm1VC?gCMKldaJ<MLf31
+R1
+R2
+w1605152830
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top_tb.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/lab8_top_tb.v|
+!i113 1
+R10
+R11
+vmemoryIO
+R17
+!i10b 1
+!s100 ICUmEnHYGNNj=z>EJjM:O3
+IW1R>_OhgNbYZJWPCYPD0f0
+R1
+R2
+R33
+R26
+R27
+L0 114
+R6
+r1
+!s85 0
+31
+R18
+R29
+R30
+!i113 1
+R10
+R11
+nmemory@i@o
+vMux2
+R17
+!i10b 1
+!s100 9g`3_56oaf^;nTkTOh8fE1
+IW]@09_K93B82^^f8l4oOh2
+R1
+R2
+Z34 w1604827528
+Z35 8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/mux_dff.v
+Z36 FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/mux_dff.v
+L0 3
+R6
+r1
+!s85 0
+31
+R18
+Z37 !s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/mux_dff.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/mux_dff.v|
+!i113 1
+R10
+R11
+n@mux2
+vMux3
+R17
+!i10b 1
+!s100 jPD;Gi;QiW;H1C:=IEK8^1
+ING^RW?Z;izVdAO61heb[>3
+R1
+R2
+R34
+R35
+R36
+L0 22
+R6
+r1
+!s85 0
+31
+R18
+R37
+R38
+!i113 1
+R10
+R11
+n@mux3
+vMux4
+R17
+!i10b 1
+!s100 `=?JABc6hziGi4n7z8K781
+I6gc`h3:>jzS:zGoBPJ:DC0
+R1
+R2
+R34
+R35
+R36
+L0 41
+R6
+r1
+!s85 0
+31
+R18
+R37
+R38
+!i113 1
+R10
+R11
+n@mux4
+vMux8
+R17
+!i10b 1
+!s100 O596fd8QRIj6Lk6gZk;dE3
+I9j5Q=Iz<CSYI7Q?YPONR31
+R1
+R2
+R34
+R35
+R36
+L0 63
+R6
+r1
+!s85 0
+31
+R18
+R37
+R38
+!i113 1
+R10
+R11
+n@mux8
+voverflow
+R0
+!i10b 1
+!s100 VQF_UVlEQS;lfBOInMDR42
+IRQ48eG3T4RT5dDaPj_TVI2
+R1
+R2
+R3
+R4
+R5
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vRAM
+R0
+!i10b 1
+!s100 D48FB0k;@5AM3Nz4Cb0F`0
+I93P:LN<ThZa?FIaVJJSQc3
+R1
+R2
+R12
+R13
+R14
+L0 257
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+n@r@a@m
+vread_writeRAM
+R17
+!i10b 1
+!s100 [94C00UEWR4oWQ]T@B4f10
+Im^1@XC6>AEmOgT]7Fzni^1
+R1
+R2
+R33
+R26
+R27
+L0 141
+R6
+r1
+!s85 0
+31
+R18
+R29
+R30
+!i113 1
+R10
+R11
+nread_write@r@a@m
+vregfile
+R17
+!i10b 1
+!s100 czZYX:]SYn1VnRiTS50ln1
+Ijl1oGIEQom7VNJj[fz?:^0
+R1
+R2
+R19
+R20
+R21
+L0 2
+R6
+r1
+!s85 0
+31
+R18
+R22
+R23
+!i113 1
+R10
+R11
+vshifter
+R0
+!i10b 1
+!s100 79n_c?[ZS9KUUKfRT9nXm0
+IhTdF1aa=7]G@2^F45ANEl3
+R1
+R2
+w1604973809
+8C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/shifter.v
+FC:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/shifter.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP USER/Documents/CPEN 2nd year/CPEN 211/Labs/Lab 8 - All/Lab8-directory/CPEN211-Lab8/Lab8-Verilog/shifter.v|
+!i113 1
+R10
+R11
+vsseg
+R17
+!i10b 1
+!s100 jJZ:8`YM05`:T`bAn8IhB2
+IZoZ@_n1<RS7HJL1JcMo9[0
+R1
+R2
+R33
+R26
+R27
+L0 83
+R6
+r1
+!s85 0
+31
+R18
+R29
+R30
+!i113 1
+R10
+R11
+vvDFF
+R17
+!i10b 1
+!s100 I?H<93=OHXj2AeILz@7o_3
+IA69fGQNk=E`oI7R]`ej`m2
+R1
+R2
+R34
+R35
+R36
+L0 125
+R6
+r1
+!s85 0
+31
+R18
+R37
+R38
+!i113 1
+R10
+R11
+nv@d@f@f
+vvDFFE
+R17
+!i10b 1
+!s100 :RRT@`6kh>=G@_dY`lgQ_2
+I3S@m32nZ5Y`KhVgAO^Y^G3
+R1
+R2
+R34
+R35
+R36
+L0 89
+R6
+r1
+!s85 0
+31
+R18
+R37
+R38
+!i113 1
+R10
+R11
+nv@d@f@f@e
+vvDFFE_PN
+R17
+!i10b 1
+!s100 J@EPf4jB8K`9jVZd?ZCLA0
+IOUl;m;C2>MXh9khIdV>FY2
+R1
+R2
+R34
+R35
+R36
+L0 107
+R6
+r1
+!s85 0
+31
+R18
+R37
+R38
+!i113 1
+R10
+R11
+nv@d@f@f@e_@p@n
